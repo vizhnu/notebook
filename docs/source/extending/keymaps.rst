@@ -7,8 +7,8 @@ Customize keymaps
     which is not guaranteed to be kept in future versions of the notebook,
     and can be removed or changed without warnings.
 
-The notebook shortcuts that are defined by jupyter both in edit mode and 
-command mode are configurable in the frontend configuration file
+The notebook shortcuts that are defined by jupyter both in ``edit mode`` and 
+``command mode`` are configurable in the frontend configuration file
 ``~/.jupyter/nbconfig/notebook.json``. The modification of keyboard 
 shortcuts suffers from several limitations, mainly that your Browser and OS 
 might prevent certain shortcuts from working correctly. If this is the case,
@@ -87,5 +87,5 @@ the following:
 
 
 
-The name of the available ``commands`` can be find by hovering over the 
+The name of the available ``commands`` can be found by hovering over the 
 right end of a row in the command palette.
